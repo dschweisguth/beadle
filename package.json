@@ -1,0 +1,13 @@
+{
+  "name": "beadle",
+  "version": "0.1",
+  "license": "MIT",
+  "main": "bin/index.mjs",
+  "bin": {
+    "beadle": "bin/index.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {}
+}
